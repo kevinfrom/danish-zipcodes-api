@@ -1,5 +1,11 @@
 # @kevinfrom/danish-zipcodes-api
 
+## 0.2.0
+
+### Minor Changes
+
+- 396bac7: Fixed not publishing interfaces
+
 ## 0.1.1
 
 ### Patch Changes

@@ -1,4 +1,8 @@
-*
-!dist
-!package.json
-!LICENSE
+.changeset
+.github
+node_modules
+src
+.editorconfig
+.gitignore
+pnpm-lock.yaml
+tsconfig.json

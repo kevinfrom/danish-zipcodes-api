@@ -10,7 +10,7 @@
     "test": "vitest run",
     "lint": "tsc",
     "build": "tsup src/index.ts --format esm,cjs --dts",
-    "ci": "pnpm test && pnpm lint && pnpm build"
+    "ci": "pnpm lint && pnpm test && pnpm build"
   },
   "keywords": [],
   "author": "",

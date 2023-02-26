@@ -1,4 +1,5 @@
 import axios from 'axios'
+import { ZipCodesApiResult, ZipCodesApiRequestParams } from './types'
 
 export const createZipCodesApi = () => {
   const executeApiRequest = (params: Partial<ZipCodesApiRequestParams>) => {

@@ -1,25 +1,25 @@
-interface ZipCodesApiRequestParams {
+export interface ZipCodesApiRequestParams {
   nr: number
   navn: string
 }
 
-interface ZipCodesApiErrorDetails {
+export interface ZipCodesApiErrorDetails {
   [index: number]: string[]
 }
 
-interface ZipCodesApiError {
+export interface ZipCodesApiError {
   type: string
   title: string
   details: ZipCodesApiErrorDetails[]
 }
 
-interface ZipCodesApiResultMunicipality {
+export interface ZipCodesApiResultMunicipality {
   href: string
   kode: string
   navn: string
 }
 
-interface ZipCodesApiResult {
+export interface ZipCodesApiResult {
   href: string
   nr: string
   navn: string

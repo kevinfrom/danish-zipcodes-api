@@ -1,6 +1,6 @@
 {
   "name": "@kevinfrom/danish-zipcodes-api",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Quickly search for cities and/or zipcodes",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

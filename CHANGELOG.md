@@ -1,5 +1,11 @@
 # @kevinfrom/danish-zipcodes-api
 
+## 1.0.0
+
+### Major Changes
+
+- a9a4ba3: Release 1.0
+
 ## 0.2.1
 
 ### Patch Changes

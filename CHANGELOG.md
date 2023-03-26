@@ -1,5 +1,11 @@
 # @kevinfrom/danish-zipcodes-api
 
+## 1.0.1
+
+### Patch Changes
+
+- 5b1c3e0: minify build
+
 ## 1.0.0
 
 ### Major Changes
